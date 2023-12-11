@@ -1,12 +1,4 @@
-<br/>
-<br/>
 
-<p align="center">
-<img src="https://files.cloudtype.io/logo/cloudtype-logo-horizontal-black.png" width="50%" alt="Cloudtype"/>
-</p>
-
-<br/>
-<br/>
 
 # FastAPI
 
@@ -33,12 +25,6 @@ uvicorn main:app --host=0.0.0.0 --port=8000
 
 ## 🏷️ 환경변수
 
-
-## 💬 문제해결
-
-- [클라우드타입 Docs](https://docs.cloudtype.io/)
-
-- [클라우드타입 FAQ](https://help.cloudtype.io/guide/faq)
 
 - [Discord](https://discord.gg/U7HX4BA6hu)
 
